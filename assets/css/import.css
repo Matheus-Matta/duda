@@ -1,0 +1,14 @@
+@import url(imports/bg.css);
+@import url(imports/historia.css);
+@import url(imports/menuLateral.css);
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: tambor;
+    src: url(/assets/img/font/TaborSinfonia_PERSONAL_USE_ONLY.otf);
+}
